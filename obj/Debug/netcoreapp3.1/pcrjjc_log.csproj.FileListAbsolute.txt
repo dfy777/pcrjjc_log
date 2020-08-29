@@ -1,0 +1,17 @@
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\pcrjjc_log.exe
+C:\Projects\pcrjjc_log\obj\Debug\netcoreapp3.1\pcrjjc_log.csprojAssemblyReference.cache
+C:\Projects\pcrjjc_log\obj\Debug\netcoreapp3.1\pcrjjc_log.AssemblyInfoInputs.cache
+C:\Projects\pcrjjc_log\obj\Debug\netcoreapp3.1\pcrjjc_log.AssemblyInfo.cs
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\pcrjjc_log.deps.json
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\pcrjjc_log.runtimeconfig.json
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\pcrjjc_log.runtimeconfig.dev.json
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\pcrjjc_log.dll
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\pcrjjc_log.pdb
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Projects\pcrjjc_log\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Projects\pcrjjc_log\obj\Debug\netcoreapp3.1\pcrjjc_log.csproj.CopyComplete
+C:\Projects\pcrjjc_log\obj\Debug\netcoreapp3.1\pcrjjc_log.dll
+C:\Projects\pcrjjc_log\obj\Debug\netcoreapp3.1\pcrjjc_log.pdb

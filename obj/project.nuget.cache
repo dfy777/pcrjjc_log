@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJ8gBQ4SexGtUDJz/jMPM2DKcW1Nj/x9yljV+4MwU0PBIp7tgEjYUyw4+PS7BveXGsj8so5KpZPU2afjaMXo3A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\pcrjjc_log\\pcrjjc_log.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wr568\\.nuget\\packages\\system.data.sqlite\\1.0.112\\system.data.sqlite.1.0.112.nupkg.sha512",
+    "C:\\Users\\wr568\\.nuget\\packages\\system.data.sqlite.core\\1.0.112\\system.data.sqlite.core.1.0.112.nupkg.sha512"
+  ],
+  "logs": []
+}
